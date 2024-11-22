@@ -16,7 +16,7 @@
 
 <br/>
 
-[![wakatime](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/xxxxxx.svg)](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/xxxxxx)
+[![wakatime](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/6c0a3b1d-d478-4df3-8151-17eb81747827.svg)](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/6c0a3b1d-d478-4df3-8151-17eb81747827)
 
 ![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/Simulated-Andoks-Ordering-System)
 
